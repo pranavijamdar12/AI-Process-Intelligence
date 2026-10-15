@@ -1,0 +1,33 @@
+Case_ID,Activity,Timestamp,Department,Priority,Status
+TKT1001,Ticket Created,2026-10-01 09:00:00,Support,High,Open
+TKT1001,Ticket Assigned,2026-10-01 09:15:00,Support,High,Open
+TKT1001,Investigation Started,2026-10-01 10:00:00,Support,High,In Progress
+TKT1001,Developer Assigned,2026-10-01 11:00:00,Development,High,In Progress
+TKT1001,Fix Completed,2026-10-01 14:00:00,Development,High,In Progress
+TKT1001,Testing Completed,2026-10-01 15:00:00,Testing,High,In Progress
+TKT1001,Ticket Resolved,2026-10-01 16:00:00,Support,High,Resolved
+TKT1002,Ticket Created,2026-10-01 09:30:00,Support,Medium,Open
+TKT1002,Ticket Assigned,2026-10-01 10:00:00,Support,Medium,Open
+TKT1002,Investigation Started,2026-10-01 11:30:00,Support,Medium,In Progress
+TKT1002,Developer Assigned,2026-10-01 12:00:00,Development,Medium,In Progress
+TKT1002,Fix Completed,2026-10-01 18:00:00,Development,Medium,In Progress
+TKT1002,Testing Completed,2026-10-02 09:00:00,Testing,Medium,In Progress
+TKT1002,Ticket Resolved,2026-10-02 10:00:00,Support,Medium,Resolved
+TKT1003,Ticket Created,2026-10-02 10:00:00,Support,High,Open
+TKT1003,Ticket Assigned,2026-10-02 10:10:00,Support,High,Open
+TKT1003,Investigation Started,2026-10-02 11:00:00,Support,High,In Progress
+TKT1003,Developer Assigned,2026-10-02 12:00:00,Development,High,In Progress
+TKT1003,Fix Completed,2026-10-03 10:00:00,Development,High,In Progress
+TKT1003,Testing Completed,2026-10-03 12:00:00,Testing,High,In Progress
+TKT1003,Ticket Resolved,2026-10-03 13:00:00,Support,High,Resolved
+TKT1004,Ticket Created,2026-10-03 09:00:00,Support,Low,Open
+TKT1004,Ticket Assigned,2026-10-03 09:30:00,Support,Low,Open
+TKT1004,Investigation Started,2026-10-03 10:00:00,Support,Low,In Progress
+TKT1004,Ticket Resolved,2026-10-03 11:00:00,Support,Low,Resolved
+TKT1005,Ticket Created,2026-10-04 08:00:00,Support,High,Open
+TKT1005,Ticket Assigned,2026-10-04 08:20:00,Support,High,Open
+TKT1005,Investigation Started,2026-10-04 09:00:00,Support,High,In Progress
+TKT1005,Developer Assigned,2026-10-04 10:00:00,Development,High,In Progress
+TKT1005,Fix Completed,2026-10-05 11:00:00,Development,High,In Progress
+TKT1005,Testing Completed,2026-10-05 14:00:00,Testing,High,In Progress
+TKT1005,Ticket Resolved,2026-10-05 15:00:00,Support,High,Resolved
